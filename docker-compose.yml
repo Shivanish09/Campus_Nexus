@@ -1,0 +1,9 @@
+services:
+  sati-portal:
+    build: .
+    container_name: sati_vidisha_portal
+    ports:
+      - "3000:3000"
+    restart: unless-stopped
+    environment:
+      - NODE_ENV=production

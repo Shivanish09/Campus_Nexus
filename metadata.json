@@ -1,0 +1,6 @@
+{
+  "name": "Campus Nexus",
+  "description": "Campus Nexus — Unified Operational Intelligence & Campus Continuity Management System.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
