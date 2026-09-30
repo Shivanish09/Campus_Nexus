@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SATI Campus Guide
 
 A simple guide to SATI campus information, people and offices, student steps, and a guided Campus Nexus demonstration.
@@ -22,3 +23,7 @@ npm run dev
 ```
 
 Open the local address printed by Vite. To create a production bundle, run `npm run build`.
+=======
+# Campus_Nexus
+SATI Campus Guide helps visitors find campus locations, people, and student information. It also includes a guided Campus Nexus demo showing how a sample campus issue can be reviewed, connected to related services, and handled with human approval.
+>>>>>>> f1949b2b94618bbd0bd497d1a47638dc198870e9
